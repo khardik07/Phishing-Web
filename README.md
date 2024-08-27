@@ -58,6 +58,3 @@ The dataset includes various features extracted from URLs and is labeled as eith
 
 Feel free to fork the repository and submit pull requests. Suggestions and improvements are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
